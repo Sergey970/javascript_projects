@@ -1,0 +1,1 @@
+document.write("<p>I am javascript file connect to the page</p>")
